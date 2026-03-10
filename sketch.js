@@ -13,7 +13,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(800, 600);
+  createCanvas(windowWidth, windowHeight);
 
   //（this “Array value retrieval- xs[i]，ys[i]” was made by ChatGbt5.3）
   for (let i = 0; i < nodeCount; i++) {
