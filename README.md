@@ -1,9 +1,9 @@
 # final-project
 
-<img width="590" height="438" alt="14601773178401_ pic" src="https://github.com/user-attachments/assets/0d03830e-71c9-4397-b988-5aab4ec2b12a" />
+<img width="1025" alt="image" src="https://git.arts.ac.uk/user-attachments/assets/fca44682-76ac-4c3e-b6d1-9aa81a6c655f" />
 
 
-<img width="588" height="437" alt="14591773178377_ pic" src="https://github.com/user-attachments/assets/86c63546-2c8d-40fa-ae4b-b928f4173621" />
+<img width="1023" alt="image" src="https://git.arts.ac.uk/user-attachments/assets/8fd77ba9-a72b-4489-bd43-91c04bfb29f3" />
 
 
 
@@ -20,4 +20,4 @@ To introduce emergent behaviour, the nodes continuously drift through small rand
 
 Sound feedback further reinforces the interaction. Each click triggers a short “pong” sound, acting as a signal that the system has processed the user’s action. In this sense, the sound represents the moment when the protocol responds.
 
-By combining generative motion, constellation-like connections, and sound interaction, the project reflects on how humans and systems both construct meaning through linking points together. Just as observers once connected stars into constellations, modern digital systems connect nodes into networks governed by algorithmic rules.
+By combining generative motion, constellation-like connections, and sound interaction, the project reflects on how humans and systems both construct meaning through linking points together. Just as observers once connected stars into constellations, modern digital systems connect nodes into networks governed by 
